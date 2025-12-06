@@ -43,6 +43,7 @@ Bem-vindo ao projeto **Álcool ou Gasolina**, uma aplicação simples que ajuda 
 
 ```
 /alcool-ou-gasolina
+│   README.md
 │   index.html
 │   index.js
 │   style.css
